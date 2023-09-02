@@ -1,5 +1,4 @@
 # NEWS_categorization
-# News Categorization Project
 
 This project aims to categorize news articles into different categories using natural language processing techniques and machine learning.
 
@@ -18,9 +17,11 @@ jupyter notebook news-categorization.ipynb
 #Follow the instructions in the notebook to explore the dataset, preprocess the data, build a machine learning model, and evaluate the model's performance.
 
 ##Dataset
+
 The project uses the News Category Dataset, which contains news articles categorized into different topics.
 
-##Dependencies:- 
+##Dependencies
+
 pandas
 matplotlib
 seaborn
