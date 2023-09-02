@@ -10,17 +10,17 @@ To get started with this project, follow these steps:
 
    ```bash
    git clone git@github.com:aandis2/NEWS_categorization.git
-#installing dependencies and
+installing dependencies and
 pip install -r requirements.txt
-#Run the Jupyter notebook:
+Run the Jupyter notebook:
 jupyter notebook news-categorization.ipynb
 #Follow the instructions in the notebook to explore the dataset, preprocess the data, build a machine learning model, and evaluate the model's performance.
 
-##Dataset
+## Dataset
 
 The project uses the News Category Dataset, which contains news articles categorized into different topics.
 
-##Dependencies
+## Dependencies
 
 pandas
 matplotlib
@@ -28,7 +28,7 @@ seaborn
 wordcloud
 nltk
 scikit-learn
-##Results
+## Results
 The project includes data exploration, preprocessing, feature extraction, model training, and evaluation.
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
